@@ -1,0 +1,255 @@
+Name	Gene.name	ImSig	
+10	APOL1	Interferon signalling	
+100	FCGR1A	Macrophages	
+101	FCGR1B	Macrophages	
+102	FCGR3B	Macrophages	
+103	FCN1	Monocytes	
+104	FCRL1	B cells	
+106	FCRL3	B cells	
+107	FCRL5	B cells	
+109	FES	Monocytes	
+11	APOL6	Interferon signalling	
+110	FGR	Monocytes	
+111	FLI1	T cells	
+112	FPR1	Neutrophils	
+113	FPR3	Macrophages	
+114	FYN	T cells	
+115	GAB3	T cells	
+116	GBP1	Interferon signalling	
+117	GBP4	Interferon signalling	
+118	GIMAP2	T cells	
+119	GIMAP4	T cells	
+120	GIMAP6	T cells	
+121	GIMAP7	T cells	
+122	GLT1D1	Neutrophils	
+123	GMFG	T cells	
+124	GNS	Monocytes	
+125	GPNMB	Macrophages	
+126	GPR171	T cells	
+127	GPR18	T cells	
+128	GRN	Monocytes	
+129	GZMK	T cells	
+13	ARHGAP15	T cells	
+130	HCK	Monocytes	
+131	HCST	T cells	
+132	HELZ2	Interferon signalling	
+133	HERC5	Interferon signalling	
+134	HERC6	Interferon signalling	
+135	HK3	Macrophages	
+137	HSH2D	Interferon signalling	
+138	HVCN1	T cells	
+139	ICOS	T cells	
+14	ARHGAP25	T cells	
+140	IFI16	Interferon signalling	
+141	IFI35	Interferon signalling	
+142	IFI44	Interferon signalling	
+143	IFI6	Interferon signalling	
+144	IFIH1	Interferon signalling	
+145	IFIT1	Interferon signalling	
+146	IFIT3	Interferon signalling	
+147	IFIT5	Interferon signalling	
+148	IFITM1	Interferon signalling	
+15	ARHGAP9	T cells	
+154	IGSF6	Macrophages	
+155	IL10RA	T cells	
+157	IL23A	T cells	
+158	IL7R	T cells	
+159	IRF7	Interferon signalling	
+16	ARRB2	Macrophages	
+160	ISG15	Interferon signalling	
+161	ITGAL	T cells	
+162	ITGAM	Macrophages	
+163	ITGAX	Macrophages	
+164	ITGB2	Macrophages	
+165	ITK	T cells	
+166	KCNJ2	Neutrophils	
+17	ATP8B4	Macrophages	
+174	KLHL6	T cells	
+175	KLRB1	T cells	
+176	KLRC4	NK cells	
+177	KLRD1	NK cells	
+178	LAIR1	Macrophages	
+179	LAMP3	Interferon signalling	
+18	BANK1	B cells	
+180	LAP3	Interferon signalling	
+181	LAPTM5	Macrophages	
+182	LCP1	T cells	
+183	LILRA6	Monocytes	
+184	LILRB2	Monocytes	
+185	LILRB3	Monocytes	
+186	LILRB4	Macrophages	
+189	LIPA	Macrophages	
+19	BASP1	Neutrophils	
+190	LRRC25	Monocytes	
+191	LST1	Monocytes	
+192	LY86	T cells	
+193	LY9	B cells	
+194	LY96	Macrophages	
+195	MGAM	Neutrophils	
+196	MNDA	Macrophages	
+197	MOB3A	Neutrophils	
+2	ADAMDEC1	Macrophages	
+20	BATF2	Interferon signalling	
+200	MSR1	Macrophages	
+201	MX1	Interferon signalling	
+202	MX2	Interferon signalling	
+203	MYO1F	Macrophages	
+204	MZB1	Plasma cells	
+205	NAMPT	Neutrophils	
+206	NCF1B	T cells	
+207	NCF4	Neutrophils	
+208	NFAM1	Monocytes	
+209	NLRC3	T cells	
+21	BCL2A1	Macrophages	
+210	NPL	Macrophages	
+212	OAS2	Interferon signalling	
+213	OAS3	Interferon signalling	
+214	OASL	Interferon signalling	
+217	PARP10	Interferon signalling	
+218	PARP12	Interferon signalling	
+219	PARP14	Interferon signalling	
+220	PARP9	Interferon signalling	
+221	PARVG	T cells	
+222	PAX5	B cells	
+223	PHF11	Interferon signalling	
+225	PLA2G7	Macrophages	
+226	PLXDC2	Monocytes	
+228	PML	Interferon signalling	
+229	PNOC	B cells	
+23	BIN2	T cells	
+231	PRAM1	Monocytes	
+232	PREX1	Neutrophils	
+233	PRF1	NK cells	
+234	PSAP	Monocytes	
+235	PSTPIP1	T cells	
+237	PYCARD	Monocytes	
+239	RASSF5	T cells	
+24	BLK	B cells	
+240	RCSD1	T cells	
+241	RGS18	T cells	
+242	RHOG	Monocytes	
+243	RHOH	T cells	
+245	RSAD2	Interferon signalling	
+246	RTP4	Interferon signalling	
+247	S100A8	Neutrophils	
+248	S100A9	Neutrophils	
+249	S1PR4	B cells	
+25	BST2	Interferon signalling	
+250	SAMD9	Interferon signalling	
+251	SAMD9L	Interferon signalling	
+253	SERPINA1	Monocytes	
+254	SH2D1A	T cells	
+255	SH2D1B	NK cells	
+257	SIGLEC1	Interferon signalling	
+258	SLA	T cells	
+259	SLAMF8	Macrophages	
+26	BTK	T cells	
+260	SLC15A3	Macrophages	
+263	SLC7A7	Monocytes	
+265	SNX10	Macrophages	
+266	SNX22	B cells	
+267	SP110	Interferon signalling	
+268	SP140	T cells	
+269	SSH2	Neutrophils	
+27	BTLA	B cells	
+270	STAP1	B cells	
+271	STAT1	Interferon signalling	
+272	STAT5B	Neutrophils	
+273	TAP1	Interferon signalling	
+274	TBC1D10C	T cells	
+275	TBX21	NK cells	
+276	TBXAS1	Macrophages	
+277	TCL1A	B cells	
+28	C19orf66	Interferon signalling	
+280	THEMIS2	Monocytes	
+281	TLR10	B cells	
+283	TLR8	Macrophages	
+284	TMEM140	Macrophages	
+285	TMEM154	Neutrophils	
+286	TNFAIP2	Macrophages	
+289	TNFRSF9	T cells	
+29	C1orf162	T cells	
+290	TNFSF13B	Macrophages	
+291	TRAC	T cells	
+292	TRAF3IP3	T cells	
+293	TRAFD1	Interferon signalling	
+294	TRAT1	T cells	
+295	TRGC2	T cells	
+296	TRGV9	T cells	
+297	TRIM21	Interferon signalling	
+298	TYROBP	Macrophages	
+299	UBASH3A	T cells	
+3	ADORA3	Macrophages	
+30	C1orf54	Macrophages	
+300	UBE2L6	Interferon signalling	
+301	USP18	Interferon signalling	
+304	VSIG4	Macrophages	
+305	XAF1	Interferon signalling	
+306	ZNFX1	Interferon signalling	
+31	C1QA	Macrophages	
+32	C1QB	Macrophages	
+33	C3AR1	Macrophages	
+34	C5AR1	Macrophages	
+35	CCL19	T cells	
+36	CCR1	Macrophages	
+38	CCR7	T cells	
+39	CCRL2	Macrophages	
+41	CD163	Macrophages	
+42	CD180	B cells	
+43	CD19	B cells	
+44	CD2	T cells	
+46	CD28	T cells	
+47	CD300A	Macrophages	
+48	CD300LF	Monocytes	
+49	CD33	Monocytes	
+5	AGTRAP	Monocytes	
+50	CD37	B cells	
+51	CD3D	T cells	
+52	CD3E	T cells	
+53	CD3G	T cells	
+54	CD4	Macrophages	
+55	CD48	T cells	
+56	CD52	T cells	
+57	CD6	T cells	
+58	CD72	B cells	
+59	CD74	Macrophages	
+6	AIF1	Monocytes	
+60	CD79A	B cells	
+61	CD79B	B cells	
+62	CD86	Macrophages	
+63	CD8A	T cells	
+64	CD93	Monocytes	
+65	CD96	T cells	
+67	CLEC7A	Macrophages	
+68	CMKLR1	Macrophages	
+69	CMPK2	Interferon signalling	
+7	ALPK1	Neutrophils	
+70	CORO1A	T cells	
+72	CRTAM	T cells	
+73	CSF1R	Macrophages	
+74	CSF3R	Neutrophils	
+75	CTSB	Macrophages	
+76	CTSS	Macrophages	
+77	CXCL9	T cells	
+78	CXCR2	Neutrophils	
+79	CXCR6	T cells	
+8	AOAH	Macrophages	
+80	CYBB	Macrophages	
+81	CYTH4	Macrophages	
+82	CYTIP	T cells	
+83	DDX58	Interferon signalling	
+84	DDX60	Interferon signalling	
+85	DENND5A	Neutrophils	
+86	DHX58	Interferon signalling	
+87	DOCK10	T cells	
+88	DOCK2	T cells	
+89	DOCK8	T cells	
+9	APBB1IP	T cells	
+91	DPYD	Macrophages	
+92	DTX3L	Interferon signalling	
+93	DYSF	Neutrophils	
+95	EMILIN2	Monocytes	
+96	EPSTI1	Interferon signalling	
+97	FAM129C	B cells	
+98	FBXO6	Interferon signalling	
+99	FCER1G	Macrophages	

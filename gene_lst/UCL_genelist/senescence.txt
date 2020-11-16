@@ -1,0 +1,56 @@
+Gene	Gene ID	source 	Notes	removed
+IL6		GO pathways		
+IL8		GO pathways		
+IL1A		GO pathways		
+TGFB		GO pathways		
+HLA-E		GO pathways		
+ATM		GO pathways		
+H2AFX		GO pathways		
+TP53		GO pathways		
+TBX3		GO pathways		
+BCL6		GO pathways		
+CGAS		GO pathways		
+ATR		GO pathways		
+NAMPT		GO pathways		
+CDK6		GO pathways		
+ID2		GO pathways		
+CDKN2A		GO pathways		
+TBX2		GO pathways		
+CDKN1A		GO pathways		
+TERT		GO pathways		
+PRKDC		GO pathways		
+CCNA2		GO pathways		
+TEP1		arne		
+YWHAE		arne		
+GAR1		arne		
+DKC1		arne		
+MYC		arne		
+SP1		arne		
+NFKB1		arne		
+IFNA1		arne		
+WT1		arne		
+AKT1		arne		
+PRKCA		arne		
+PTPA		arne		
+HSP90AA1		arne		
+POT1		arne		
+TERF1		arne		
+TERF2IP		arne		
+RAP1A		arne		
+RIF1		arne		
+TINF2		arne		
+PINX1		arne		
+TGS1		arne		
+SESN2		arne		
+SESN1		arne		
+SESN3		arne		
+MAPK1		arne		
+MAPK3		arne		
+MAP2K1		arne		
+MAPK8		arne		
+MAPK9		arne		
+MAPK10		arne		
+TAB1		arne		
+MAPK14		arne		
+CD57		arne		
+KLRG1		arne		

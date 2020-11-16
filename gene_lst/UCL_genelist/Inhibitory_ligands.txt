@@ -1,0 +1,27 @@
+Gene	Gene ID	source 	Notes	Original_gene	removed
+CD274		10.1146/annurev.immunol.17.1.875	PDL1		
+PDCD1LG2		10.1146/annurev.immunol.17.1.875	PDL2		
+LILRA2		10.1146/annurev.immunol.17.1.875	ILT1		
+LILRB1		10.1146/annurev.immunol.17.1.875	ILT2		
+LILRB4		10.1146/annurev.immunol.17.1.875	ILT3		
+LILRB2		10.1146/annurev.immunol.17.1.875	ILT4		
+LILRB3		10.1146/annurev.immunol.17.1.875	ILT5		
+LILRA1		10.1146/annurev.immunol.17.1.875	lir6		
+PTGS2		JACI paper	cox2		
+TIGIT		http://dx.doi.org/10.1016/j.immuni.2016.05.001 	expressed on the T cells		removed
+PVR		http://dx.doi.org/10.1016/j.immuni.2016.05.001 	receptor for tigit; CD155		
+IDO1				IDO	removed
+CTLA4		http://dx.doi.org/10.1016/j.imlet.2017.02.007	expressed on the T cells		removed
+NOS2					removed
+ARG1					removed
+LAG3		http://dx.doi.org/10.1016/j.immuni.2016.05.001 	expressed on T cells		removed
+HAVCR2		http://dx.doi.org/10.1016/j.immuni.2016.05.001 		TIM3	removed
+CLEC4G		http://dx.doi.org/10.1016/j.immuni.2016.05.001 	LSECtin		removed
+LGALS9		http://dx.doi.org/10.1016/j.immuni.2016.05.001 	Galectin-9		removed
+CEACAM1		http://dx.doi.org/10.1016/j.immuni.2016.05.001			removed
+HMGB1		http://dx.doi.org/10.1016/j.immuni.2016.05.001			removed
+NECTIN2		http://dx.doi.org/10.1016/j.immuni.2016.05.001	CD112		
+CD96		http://dx.doi.org/10.1016/j.immuni.2016.05.001 			removed
+PDCD1		http://dx.doi.org/10.1016/j.immuni.2016.05.001 	PD1		removed
+BTLA		Rowshanravan et al Blood 2018			removed
+					

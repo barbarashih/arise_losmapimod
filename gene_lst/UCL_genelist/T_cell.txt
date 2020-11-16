@@ -1,0 +1,58 @@
+Gene	Gene ID	source 	Notes	removed
+IL15		Turner (2014) Biochim Biophys Acta. Table 1		
+IL2		Turner (2014) Biochim Biophys Acta. Table 1		
+IL21		Turner (2014) Biochim Biophys Acta. Table 1		removed
+IL4		Turner (2014) Biochim Biophys Acta. Table 1		removed
+IL4R		Turner (2014) Biochim Biophys Acta. Table 1		removed
+IL5		Turner (2014) Biochim Biophys Acta. Table 1		removed
+IL7		Turner (2014) Biochim Biophys Acta. Table 1		removed
+IL7R		Turner (2014) Biochim Biophys Acta. Table 1		
+IL9		Turner (2014) Biochim Biophys Acta. Table 1		removed
+IL31		Turner (2014) Biochim Biophys Acta. Table 1		removed
+TNF		Turner (2014) Biochim Biophys Acta. Table 1		removed
+IL25		Turner (2014) Biochim Biophys Acta. Table 1		removed
+IL17A		Turner (2014) Biochim Biophys Acta. Table 1		removed
+IL17F		Turner (2014) Biochim Biophys Acta. Table 1		removed
+IFNG		Turner (2014) Biochim Biophys Acta. Table 1		
+IL23A		Turner (2014) Biochim Biophys Acta. Table 1		
+IL27		Turner (2014) Biochim Biophys Acta. Table 1		
+IL12A		Turner (2014) Biochim Biophys Acta. Table 1		removed
+1L10		Turner (2014) Biochim Biophys Acta. Table 1		
+FOXP3				
+CD4				
+CD8A				
+LCK				
+CD28				
+CXCR4				
+STAT3				
+ZAP70				
+CD8B				
+IL2RA				
+PTPRC				
+GZMB				
+B2M				
+PRF1				
+GZMK				
+SRGN				
+CTLA4				
+CD69				
+PCD1				
+GNLY				
+CD3E				
+CD3D				
+CD247		MVS JACI 2018		
+CD3G		MVS JACI 2018		
+CXCL9		MVS JACI 2018		
+XCL1		MVS JACI 2018		
+CCL5		MVS JACI 2018		
+IRF1		MVS JACI 2018		
+OASL		MVS JACI 2018		
+AIM2		MVS JACI 2018		
+IL18RAP		MVS JACI 2018		
+EOMES		MVS JACI 2018		
+TBX21		MVS JACI 2018		
+NKG7		MVS JACI 2018		
+SLAMF6		MVS JACI 2018		
+SLAMF1		MVS JACI 2018		
+SH2D1A		MVS JACI 2018		
+BATF		MVS JACI 2019		

@@ -1,0 +1,51 @@
+Gene	Gene ID	source 	Notes	removed
+ENTPD1		Deonarine et al Journal of Translational Medicine 2007	"https://dx.doi.org/10.1186%2F1479-5876-5-11; gene of interest is ENTPD1, however due to overlap, its expression has been merged with CC2D2B andAL365273.1 (ENSG00000270099). Currently using AL365273.1 to retrieve the estimated gene expression"	
+CTSS		Deonarine et al Journal of Translational Medicine 2007	https://dx.doi.org/10.1186%2F1479-5876-5-11; originally labelled as Cathepsin S	
+MMP9		Deonarine et al Journal of Translational Medicine 2007	https://dx.doi.org/10.1186%2F1479-5876-5-11	
+MMP1 		MVS JACI 2018		
+MMP3		MVS JACI 2018		
+S100A8		MVS JACI 2018		
+S100A9		MVS JACI 2018		
+SERPINA1		MVS JACI 2018		
+SERPINE1		MVS JACI 2018		
+S100A7		SkinSig		
+S100A7A		SkinSig		
+SPRR2A		SkinSig		
+PI3		SkinSig		removed
+SERPINB3		SkinSig		
+DEF4B	ENSG00000177257	Baird et al Wound Repair and Regeneration 2016	https://dx.doi.org/10.1111%2Fwrr.12422	
+DEFB104A	ENSG00000176782	Baird et al Wound Repair and Regeneration 2016	https://dx.doi.org/10.1111%2Fwrr.12422	removed
+DEFB104B	ENSG00000177023	Baird et al Wound Repair and Regeneration 2016	https://dx.doi.org/10.1111%2Fwrr.12422	removed
+DEFB114	ENSG00000177684	Baird et al Wound Repair and Regeneration 2016	https://dx.doi.org/10.1111%2Fwrr.12422	removed
+DEFB132	ENSG00000186458	Baird et al Wound Repair and Regeneration 2016	https://dx.doi.org/10.1111%2Fwrr.12422	removed
+DEFA1B	ENSG00000187151	Baird et al Wound Repair and Regeneration 2016	https://dx.doi.org/10.1111%2Fwrr.12422	removed
+DEFA3	ENSG00000240247	Baird et al Wound Repair and Regeneration 2016	https://dx.doi.org/10.1111%2Fwrr.12422	removed
+DEFA4	ENSG00000239839	Baird et al Wound Repair and Regeneration 2016	https://dx.doi.org/10.1111%2Fwrr.12422	removed
+DEFA5	ENSG00000164821	Baird et al Wound Repair and Regeneration 2016	https://dx.doi.org/10.1111%2Fwrr.12422	removed
+DEFA6	ENSG00000164822	Baird et al Wound Repair and Regeneration 2016	https://dx.doi.org/10.1111%2Fwrr.12422	removed
+CHRFAM7A	ENSG00000166664	Baird et al Wound Repair and Regeneration 2016	https://dx.doi.org/10.1111%2Fwrr.12422	removed
+ARHGAP11B	ENSG00000187951	Baird et al Wound Repair and Regeneration 2016	https://dx.doi.org/10.1111%2Fwrr.12422	removed
+TBC1D3	ENSG00000274611	Baird et al Wound Repair and Regeneration 2016	https://dx.doi.org/10.1111%2Fwrr.12422	removed
+CCL18	ENSG00000275385	Baird et al Wound Repair and Regeneration 2016	https://dx.doi.org/10.1111%2Fwrr.12422	removed
+CCL23	ENSG00000274736	Baird et al Wound Repair and Regeneration 2016	https://dx.doi.org/10.1111%2Fwrr.12422	removed
+IFNL1	ENSG00000182393	Baird et al Wound Repair and Regeneration 2016	https://dx.doi.org/10.1111%2Fwrr.12422	removed
+MMP10		Peake (2014) Wound Repair Regen.		
+F2		Delavary et al	https://doi.org/10.1016/j.imbio.2011.01.001	removed
+PDGFB		Delavary et al	https://doi.org/10.1016/j.imbio.2011.01.001	removed
+PDGFA		Delavary et al	https://doi.org/10.1016/j.imbio.2011.01.001	removed
+CCL5		Delavary et al	https://doi.org/10.1016/j.imbio.2011.01.001	removed
+CCL20		Kennedy-Crispen et al 2012	doi:10.1038/jid.2011.262	removed
+IL15		Kennedy-Crispen et al 2012	doi:10.1038/jid.2011.262	removed
+IL23A		Kennedy-Crispen et al 2012	doi:10.1038/jid.2011.262	removed
+IFNK		Kennedy-Crispen et al 2012	doi:10.1038/jid.2011.262	removed
+RNASE7		Kennedy-Crispen et al 2012	doi:10.1038/jid.2011.262	removed
+NGAL		Kennedy-Crispen et al 2012	doi:10.1038/jid.2011.262	
+ELAFIN		Kennedy-Crispen et al 2012	doi:10.1038/jid.2011.262	
+IL1A		Kennedy-Crispen et al 2012	doi:10.1038/jid.2011.262	removed
+TNF		Kennedy-Crispen et al 2012	doi:10.1038/jid.2011.262	removed
+IL8		Kennedy-Crispen et al 2012	doi:10.1038/jid.2011.262	
+AREG		Kennedy-Crispen et al 2012	doi:10.1038/jid.2011.262	
+TGFA		Kennedy-Crispen et al 2012	doi:10.1038/jid.2011.262	removed
+HBEGF		Kennedy-Crispen et al 2012	doi:10.1038/jid.2011.262	
+IL1RL1		Kennedy-Crispen et al 2012	doi:10.1038/jid.2011.262	removed
+LCN2		Kennedy-Crispen et al 2012	doi:10.1038/jid.2011.262	removed

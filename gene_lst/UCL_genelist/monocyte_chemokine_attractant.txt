@@ -1,0 +1,30 @@
+Gene	Gene ID	source 	Notes	removed
+IL6		MVS JACI 2018		removed
+CXCL1		MVS JACI 2018		
+CXCL2		MVS JACI 2018		
+SELL		MVS JACI 2018		
+CXCL10		MVS JACI 2018		
+CCL2		MVS JACI 2018		
+ICAM1		MVS JACI 2018		
+CCL8		MVS JACI 2018		
+VCAM1		Shi and Pamer 2011 Nature reviews Immunology		
+CCL7		Shi and Pamer 2011 Nature reviews Immunology		
+ACKR1		Shi and Pamer 2011 Nature reviews Immunology		removed
+CCL12		Shi and Pamer 2011 Nature reviews Immunology		
+CX3CL1		Shi and Pamer 2011 Nature reviews Immunology		
+CCL5		Shi and Pamer 2011 Nature reviews Immunology		removed
+CCL20		Shi and Pamer 2011 Nature reviews Immunology		
+PECAM1		Shi and Pamer 2011 Nature reviews Immunology		removed
+LFA1		Shi and Pamer 2011 Nature reviews Immunology		
+VLA4		Shi and Pamer 2011 Nature reviews Immunology		
+CCL7		Shi and Pamer 2011 Nature reviews Immunology		
+CCL3		Shi and Pamer 2011 Nature reviews Immunology		
+CCL4		Delavary et al	https://doi.org/10.1016/j.imbio.2011.01.001	
+C5		Delavary et al	https://doi.org/10.1016/j.imbio.2011.01.001	removed
+C3		Delavary et al	https://doi.org/10.1016/j.imbio.2011.01.001	removed
+ELN		Delavary et al	https://doi.org/10.1016/j.imbio.2011.01.001	removed
+FN1		Delavary et al	https://doi.org/10.1016/j.imbio.2011.01.001	removed
+IL36RN		Foster et al	doi: 10.4049/jimmunol.1301481	removed
+IL36A		Foster et al	doi: 10.4049/jimmunol.1301481	removed
+IL36B		Foster et al	doi: 10.4049/jimmunol.1301481	removed
+IL36G		Foster et al	doi: 10.4049/jimmunol.1301481	removed

@@ -1,0 +1,127 @@
+sample.ID	subject	drug_status	treatment	treatment.long	treatment.short	sub_los_treat	response	RunID	Batch	treatment_reorder	resp_sub_treat_los	resp_treat_sub_los	resp_treat_los	new_label
+AL1B12S6_S14	AL1B12	post	S6	6 hours after saline injection	saline6hr	AL1B12_post_saline6hr	responder	125_1	1	2_S6	responder_AL1B12_S6_post	responder_S6_AL1B12_post	2_S6	Resp_5_AL1B12S6_S14
+AL1B12V6_S15	AL1B12	post	V6	6 hours after Varicella Zoster Virus antigen challenge	vzv6hr	AL1B12_post_vzv6hr	responder	125_1	1	3_v6	responder_AL1B12_V6_post	responder_V6_AL1B12_post	3_v6	Resp_5_AL1B12V6_S15
+AL1B12N_S13	AL1B12	post	N	normal skin	normalskin	AL1B12_post_normalskin	responder	125_1	1	1_N	responder_AL1B12_N_post	responder_N_AL1B12_post	1_N	Resp_5_AL1B12N_S13
+pAL1B12V6_S11	AL1B12	pre	V6	6 hours after Varicella Zoster Virus antigen challenge	vzv6hr	AL1B12_pre_vzv6hr	responder	125_1	1	3_v6	responder_AL1B12_V6_pre	responder_V6_AL1B12_pre	3_v6	Resp_5_pAL1B12V6_S11
+pAL1B12D2_S12	AL1B12	pre	D2	2 days after Varicella Zoster Virus antigen challenge	vzvday2	AL1B12_pre_vzvday2	responder	125_1	1	4_D2	responder_AL1B12_D2_pre	responder_D2_AL1B12_pre	4_D2	Resp_5_pAL1B12D2_S12
+AL1B12D2_S16	AL1B12	post	D2	2 days after Varicella Zoster Virus antigen challenge	vzvday2	AL1B12_post_vzvday2	responder	125_1	1	4_D2	responder_AL1B12_D2_post	responder_D2_AL1B12_post	4_D2	Resp_5_AL1B12D2_S16
+pAL1B12S6_S10	AL1B12	pre	S6	6 hours after saline injection	saline6hr	AL1B12_pre_saline6hr	responder	125_1	1	2_S6	responder_AL1B12_S6_pre	responder_S6_AL1B12_pre	2_S6	Resp_5_pAL1B12S6_S10
+pAL1B12N_S9	AL1B12	pre	N	normal skin	normalskin	AL1B12_pre_normalskin	responder	125_1	1	1_N	responder_AL1B12_N_pre	responder_N_AL1B12_pre	1_N	Resp_5_pAL1B12N_S9
+AL1B13V6_S7	AL1B13	post	V6	6 hours after Varicella Zoster Virus antigen challenge	vzv6hr	AL1B13_post_vzv6hr	minimal_responder	126_2	1	3_v6	minimal_responder_AL1B13_V6_post	minimal_responder_V6_AL1B13_post	3_v6	MResp_2_AL1B13V6_S7
+AL1B13D2_S8	AL1B13	post	D2	2 days after Varicella Zoster Virus antigen challenge	vzvday2	AL1B13_post_vzvday2	minimal_responder	126_2	1	4_D2	minimal_responder_AL1B13_D2_post	minimal_responder_D2_AL1B13_post	4_D2	MResp_2_AL1B13D2_S8
+AL1B13S6_S6	AL1B13	post	S6	6 hours after saline injection	saline6hr	AL1B13_post_saline6hr	minimal_responder	126_2	1	2_S6	minimal_responder_AL1B13_S6_post	minimal_responder_S6_AL1B13_post	2_S6	MResp_2_AL1B13S6_S6
+pAL1B13D2_S4	AL1B13	pre	D2	2 days after Varicella Zoster Virus antigen challenge	vzvday2	AL1B13_pre_vzvday2	minimal_responder	126_2	1	4_D2	minimal_responder_AL1B13_D2_pre	minimal_responder_D2_AL1B13_pre	4_D2	MResp_2_pAL1B13D2_S4
+pAL1B13N_S1	AL1B13	pre	N	normal skin	normalskin	AL1B13_pre_normalskin	minimal_responder	126_2	1	1_N	minimal_responder_AL1B13_N_pre	minimal_responder_N_AL1B13_pre	1_N	MResp_2_pAL1B13N_S1
+AL1B13N_S5	AL1B13	post	N	normal skin	normalskin	AL1B13_post_normalskin	minimal_responder	126_2	1	1_N	minimal_responder_AL1B13_N_post	minimal_responder_N_AL1B13_post	1_N	MResp_2_AL1B13N_S5
+pAL1B13V6_S3	AL1B13	pre	V6	6 hours after Varicella Zoster Virus antigen challenge	vzv6hr	AL1B13_pre_vzv6hr	minimal_responder	126_2	1	3_v6	minimal_responder_AL1B13_V6_pre	minimal_responder_V6_AL1B13_pre	3_v6	MResp_2_pAL1B13V6_S3
+pAL1B13S6_S2	AL1B13	pre	S6	6 hours after saline injection	saline6hr	AL1B13_pre_saline6hr	minimal_responder	126_2	1	2_S6	minimal_responder_AL1B13_S6_pre	minimal_responder_S6_AL1B13_pre	2_S6	MResp_2_pAL1B13S6_S2
+pAL1B15S6_S9	AL1B15	pre	S6	6 hours after saline injection	saline6hr	AL1B15_pre_saline6hr	minimal_responder	126_2	1	2_S6	minimal_responder_AL1B15_S6_pre	minimal_responder_S6_AL1B15_pre	2_S6	MResp_3_pAL1B15S6_S9
+AL1B15S6_S11	AL1B15	post	S6	6 hours after saline injection	saline6hr	AL1B15_post_saline6hr	minimal_responder	126_2	1	2_S6	minimal_responder_AL1B15_S6_post	minimal_responder_S6_AL1B15_post	2_S6	MResp_3_AL1B15S6_S11
+AL1B15N_S10	AL1B15	post	N	normal skin	normalskin	AL1B15_post_normalskin	minimal_responder	126_2	1	1_N	minimal_responder_AL1B15_N_post	minimal_responder_N_AL1B15_post	1_N	MResp_3_AL1B15N_S10
+pAL1B16D2_S12	AL1B16	pre	D2	2 days after Varicella Zoster Virus antigen challenge	vzvday2	AL1B16_pre_vzvday2	non-responder	126_2	1	4_D2	non-responder_AL1B16_D2_pre	non-responder_D2_AL1B16_pre	4_D2	NResp_2_pAL1B16D2_S12
+AL1B16N_S13	AL1B16	post	N	normal skin	normalskin	AL1B16_post_normalskin	non-responder	126_2	1	1_N	non-responder_AL1B16_N_post	non-responder_N_AL1B16_post	1_N	NResp_2_AL1B16N_S13
+AL1B16D2_S14	AL1B16	post	D2	2 days after Varicella Zoster Virus antigen challenge	vzvday2	AL1B16_post_vzvday2	non-responder	126_2	1	4_D2	non-responder_AL1B16_D2_post	non-responder_D2_AL1B16_post	4_D2	NResp_2_AL1B16D2_S14
+pAL1B18S6_S2	AL1B18	pre	S6	6 hours after saline injection	saline6hr	AL1B18_pre_saline6hr	responder	125_2	1	2_S6	responder_AL1B18_S6_pre	responder_S6_AL1B18_pre	2_S6	Resp_6_pAL1B18S6_S2
+AL1B18S6_S6	AL1B18	post	S6	6 hours after saline injection	saline6hr	AL1B18_post_saline6hr	responder	125_2	1	2_S6	responder_AL1B18_S6_post	responder_S6_AL1B18_post	2_S6	Resp_6_AL1B18S6_S6
+AL1B18V6_S7	AL1B18	post	V6	6 hours after Varicella Zoster Virus antigen challenge	vzv6hr	AL1B18_post_vzv6hr	responder	125_2	1	3_v6	responder_AL1B18_V6_post	responder_V6_AL1B18_post	3_v6	Resp_6_AL1B18V6_S7
+pAL1B18V6_S3	AL1B18	pre	V6	6 hours after Varicella Zoster Virus antigen challenge	vzv6hr	AL1B18_pre_vzv6hr	responder	125_2	1	3_v6	responder_AL1B18_V6_pre	responder_V6_AL1B18_pre	3_v6	Resp_6_pAL1B18V6_S3
+pAL1B18D2_S4	AL1B18	pre	D2	2 days after Varicella Zoster Virus antigen challenge	vzvday2	AL1B18_pre_vzvday2	responder	125_2	1	4_D2	responder_AL1B18_D2_pre	responder_D2_AL1B18_pre	4_D2	Resp_6_pAL1B18D2_S4
+pAL1B18N_S1	AL1B18	pre	N	normal skin	normalskin	AL1B18_pre_normalskin	responder	125_2	1	1_N	responder_AL1B18_N_pre	responder_N_AL1B18_pre	1_N	Resp_6_pAL1B18N_S1
+AL1B18D2_S8	AL1B18	post	D2	2 days after Varicella Zoster Virus antigen challenge	vzvday2	AL1B18_post_vzvday2	responder	125_2	1	4_D2	responder_AL1B18_D2_post	responder_D2_AL1B18_post	4_D2	Resp_6_AL1B18D2_S8
+AL1B18N_S5	AL1B18	post	N	normal skin	normalskin	AL1B18_post_normalskin	responder	125_2	1	1_N	responder_AL1B18_N_post	responder_N_AL1B18_post	1_N	Resp_6_AL1B18N_S5
+AL1B19N_S13	AL1B19	post	N	normal skin	normalskin	AL1B19_post_normalskin	responder	125_2	1	1_N	responder_AL1B19_N_post	responder_N_AL1B19_post	1_N	Resp_4_AL1B19N_S13
+AL1B19D2_S16	AL1B19	post	D2	2 days after Varicella Zoster Virus antigen challenge	vzvday2	AL1B19_post_vzvday2	responder	125_2	1	4_D2	responder_AL1B19_D2_post	responder_D2_AL1B19_post	4_D2	Resp_4_AL1B19D2_S16
+pAL1B19D2_S12	AL1B19	pre	D2	2 days after Varicella Zoster Virus antigen challenge	vzvday2	AL1B19_pre_vzvday2	responder	125_2	1	4_D2	responder_AL1B19_D2_pre	responder_D2_AL1B19_pre	4_D2	Resp_4_pAL1B19D2_S12
+pAL1B19V6_S11	AL1B19	pre	V6	6 hours after Varicella Zoster Virus antigen challenge	vzv6hr	AL1B19_pre_vzv6hr	responder	125_2	1	3_v6	responder_AL1B19_V6_pre	responder_V6_AL1B19_pre	3_v6	Resp_4_pAL1B19V6_S11
+AL1B19S6_S14	AL1B19	post	S6	6 hours after saline injection	saline6hr	AL1B19_post_saline6hr	responder	125_2	1	2_S6	responder_AL1B19_S6_post	responder_S6_AL1B19_post	2_S6	Resp_4_AL1B19S6_S14
+AL1B19V6_S15	AL1B19	post	V6	6 hours after Varicella Zoster Virus antigen challenge	vzv6hr	AL1B19_post_vzv6hr	responder	125_2	1	3_v6	responder_AL1B19_V6_post	responder_V6_AL1B19_post	3_v6	Resp_4_AL1B19V6_S15
+pAL1B19S6_S10	AL1B19	pre	S6	6 hours after saline injection	saline6hr	AL1B19_pre_saline6hr	responder	125_2	1	2_S6	responder_AL1B19_S6_pre	responder_S6_AL1B19_pre	2_S6	Resp_4_pAL1B19S6_S10
+pAL1B19N_S9	AL1B19	pre	N	normal skin	normalskin	AL1B19_pre_normalskin	responder	125_2	1	1_N	responder_AL1B19_N_pre	responder_N_AL1B19_pre	1_N	Resp_4_pAL1B19N_S9
+AL1B22N_S5	AL1B22	post	N	normal skin	normalskin	AL1B22_post_normalskin	minimal_responder	141	2	1_N	minimal_responder_AL1B22_N_post	minimal_responder_N_AL1B22_post	1_N	MResp_1_AL1B22N_S5
+pAL1B22D2_S4	AL1B22	pre	D2	2 days after Varicella Zoster Virus antigen challenge	vzvday2	AL1B22_pre_vzvday2	minimal_responder	141	2	4_D2	minimal_responder_AL1B22_D2_pre	minimal_responder_D2_AL1B22_pre	4_D2	MResp_1_pAL1B22D2_S4
+pAL1B22N_S1	AL1B22	pre	N	normal skin	normalskin	AL1B22_pre_normalskin	minimal_responder	141	2	1_N	minimal_responder_AL1B22_N_pre	minimal_responder_N_AL1B22_pre	1_N	MResp_1_pAL1B22N_S1
+AL1B22D2_S8	AL1B22	post	D2	2 days after Varicella Zoster Virus antigen challenge	vzvday2	AL1B22_post_vzvday2	minimal_responder	141	2	4_D2	minimal_responder_AL1B22_D2_post	minimal_responder_D2_AL1B22_post	4_D2	MResp_1_AL1B22D2_S8
+pAL1B22S6_S2	AL1B22	pre	S6	6 hours after saline injection	saline6hr	AL1B22_pre_saline6hr	minimal_responder	141	2	2_S6	minimal_responder_AL1B22_S6_pre	minimal_responder_S6_AL1B22_pre	2_S6	MResp_1_pAL1B22S6_S2
+pAL1B22V6_S3	AL1B22	pre	V6	6 hours after Varicella Zoster Virus antigen challenge	vzv6hr	AL1B22_pre_vzv6hr	minimal_responder	141	2	3_v6	minimal_responder_AL1B22_V6_pre	minimal_responder_V6_AL1B22_pre	3_v6	MResp_1_pAL1B22V6_S3
+AL1B22S6_S6	AL1B22	post	S6	6 hours after saline injection	saline6hr	AL1B22_post_saline6hr	minimal_responder	141	2	2_S6	minimal_responder_AL1B22_S6_post	minimal_responder_S6_AL1B22_post	2_S6	MResp_1_AL1B22S6_S6
+AL1B22V6_S7	AL1B22	post	V6	6 hours after Varicella Zoster Virus antigen challenge	vzv6hr	AL1B22_post_vzv6hr	minimal_responder	141	2	3_v6	minimal_responder_AL1B22_V6_post	minimal_responder_V6_AL1B22_post	3_v6	MResp_1_AL1B22V6_S7
+pAL1B23D2_S12	AL1B23	pre	D2	2 days after Varicella Zoster Virus antigen challenge	vzvday2	AL1B23_pre_vzvday2	responder	141	2	4_D2	responder_AL1B23_D2_pre	responder_D2_AL1B23_pre	4_D2	Resp_1_pAL1B23D2_S12
+pAL1B23N_S9	AL1B23	pre	N	normal skin	normalskin	AL1B23_pre_normalskin	responder	141	2	1_N	responder_AL1B23_N_pre	responder_N_AL1B23_pre	1_N	Resp_1_pAL1B23N_S9
+AL1B23V6_S15	AL1B23	post	V6	6 hours after Varicella Zoster Virus antigen challenge	vzv6hr	AL1B23_post_vzv6hr	responder	141	2	3_v6	responder_AL1B23_V6_post	responder_V6_AL1B23_post	3_v6	Resp_1_AL1B23V6_S15
+AL1B23D2_S16	AL1B23	post	D2	2 days after Varicella Zoster Virus antigen challenge	vzvday2	AL1B23_post_vzvday2	responder	141	2	4_D2	responder_AL1B23_D2_post	responder_D2_AL1B23_post	4_D2	Resp_1_AL1B23D2_S16
+pAL1B23V6_S11	AL1B23	pre	V6	6 hours after Varicella Zoster Virus antigen challenge	vzv6hr	AL1B23_pre_vzv6hr	responder	141	2	3_v6	responder_AL1B23_V6_pre	responder_V6_AL1B23_pre	3_v6	Resp_1_pAL1B23V6_S11
+pAL1B23S6_S10	AL1B23	pre	S6	6 hours after saline injection	saline6hr	AL1B23_pre_saline6hr	responder	141	2	2_S6	responder_AL1B23_S6_pre	responder_S6_AL1B23_pre	2_S6	Resp_1_pAL1B23S6_S10
+AL1B23S6_S14	AL1B23	post	S6	6 hours after saline injection	saline6hr	AL1B23_post_saline6hr	responder	141	2	2_S6	responder_AL1B23_S6_post	responder_S6_AL1B23_post	2_S6	Resp_1_AL1B23S6_S14
+AL1B23N_S13	AL1B23	post	N	normal skin	normalskin	AL1B23_post_normalskin	responder	141	2	1_N	responder_AL1B23_N_post	responder_N_AL1B23_post	1_N	Resp_1_AL1B23N_S13
+AL1B24D2_S8	AL1B24	post	D2	2 days after Varicella Zoster Virus antigen challenge	vzvday2	AL1B24_post_vzvday2	non-responder	142	2	4_D2	non-responder_AL1B24_D2_post	non-responder_D2_AL1B24_post	4_D2	NResp_3_AL1B24D2_S8
+AL1B24N_S5	AL1B24	post	N	normal skin	normalskin	AL1B24_post_normalskin	non-responder	142	2	1_N	non-responder_AL1B24_N_post	non-responder_N_AL1B24_post	1_N	NResp_3_AL1B24N_S5
+pAL1B24V6_S3	AL1B24	pre	V6	6 hours after Varicella Zoster Virus antigen challenge	vzv6hr	AL1B24_pre_vzv6hr	non-responder	142	2	3_v6	non-responder_AL1B24_V6_pre	non-responder_V6_AL1B24_pre	3_v6	NResp_3_pAL1B24V6_S3
+pAL1B24N_S1	AL1B24	pre	N	normal skin	normalskin	AL1B24_pre_normalskin	non-responder	142	2	1_N	non-responder_AL1B24_N_pre	non-responder_N_AL1B24_pre	1_N	NResp_3_pAL1B24N_S1
+pAL1B24D2_S4	AL1B24	pre	D2	2 days after Varicella Zoster Virus antigen challenge	vzvday2	AL1B24_pre_vzvday2	non-responder	142	2	4_D2	non-responder_AL1B24_D2_pre	non-responder_D2_AL1B24_pre	4_D2	NResp_3_pAL1B24D2_S4
+pAL1B24S6_S2	AL1B24	pre	S6	6 hours after saline injection	saline6hr	AL1B24_pre_saline6hr	non-responder	142	2	2_S6	non-responder_AL1B24_S6_pre	non-responder_S6_AL1B24_pre	2_S6	NResp_3_pAL1B24S6_S2
+AL1B24S6_S6	AL1B24	post	S6	6 hours after saline injection	saline6hr	AL1B24_post_saline6hr	non-responder	142	2	2_S6	non-responder_AL1B24_S6_post	non-responder_S6_AL1B24_post	2_S6	NResp_3_AL1B24S6_S6
+AL1B24V6_S7	AL1B24	post	V6	6 hours after Varicella Zoster Virus antigen challenge	vzv6hr	AL1B24_post_vzv6hr	non-responder	142	2	3_v6	non-responder_AL1B24_V6_post	non-responder_V6_AL1B24_post	3_v6	NResp_3_AL1B24V6_S7
+AL1B25N_S13	AL1B25	post	N	normal skin	normalskin	AL1B25_post_normalskin	minimal_responder	142	2	1_N	minimal_responder_AL1B25_N_post	minimal_responder_N_AL1B25_post	1_N	MinResp_5_AL1B25N_S13
+AL1B25D2_S16	AL1B25	post	D2	2 days after Varicella Zoster Virus antigen challenge	vzvday2	AL1B25_post_vzvday2	minimal_responder	142	2	4_D2	minimal_responder_AL1B25_D2_post	minimal_responder_D2_AL1B25_post	4_D2	MinResp_5_AL1B25D2_S16
+pAL1B25N_S9	AL1B25	pre	N	normal skin	normalskin	AL1B25_pre_normalskin	minimal_responder	142	2	1_N	minimal_responder_AL1B25_N_pre	minimal_responder_N_AL1B25_pre	1_N	MinResp_5_pAL1B25N_S9
+pAL1B25S6_S10	AL1B25	pre	S6	6 hours after saline injection	saline6hr	AL1B25_pre_saline6hr	minimal_responder	142	2	2_S6	minimal_responder_AL1B25_S6_pre	minimal_responder_S6_AL1B25_pre	2_S6	MinResp_5_pAL1B25S6_S10
+pAL1B25V6_S11	AL1B25	pre	V6	6 hours after Varicella Zoster Virus antigen challenge	vzv6hr	AL1B25_pre_vzv6hr	minimal_responder	142	2	3_v6	minimal_responder_AL1B25_V6_pre	minimal_responder_V6_AL1B25_pre	3_v6	MinResp_5_pAL1B25V6_S11
+AL1B25V6_S15	AL1B25	post	V6	6 hours after Varicella Zoster Virus antigen challenge	vzv6hr	AL1B25_post_vzv6hr	minimal_responder	142	2	3_v6	minimal_responder_AL1B25_V6_post	minimal_responder_V6_AL1B25_post	3_v6	MinResp_5_AL1B25V6_S15
+pAL1B25D2_S12	AL1B25	pre	D2	2 days after Varicella Zoster Virus antigen challenge	vzvday2	AL1B25_pre_vzvday2	minimal_responder	142	2	4_D2	minimal_responder_AL1B25_D2_pre	minimal_responder_D2_AL1B25_pre	4_D2	MinResp_5_pAL1B25D2_S12
+AL1B25S6_S14	AL1B25	post	S6	6 hours after saline injection	saline6hr	AL1B25_post_saline6hr	minimal_responder	142	2	2_S6	minimal_responder_AL1B25_S6_post	minimal_responder_S6_AL1B25_post	2_S6	MinResp_5_AL1B25S6_S14
+pAL1B26S6_S2	AL1B26	pre	S6	6 hours after saline injection	saline6hr	AL1B26_pre_saline6hr	responder	143	2	2_S6	responder_AL1B26_S6_pre	responder_S6_AL1B26_pre	2_S6	Resp_3_pAL1B26S6_S2
+pAL1B26V6_S3	AL1B26	pre	V6	6 hours after Varicella Zoster Virus antigen challenge	vzv6hr	AL1B26_pre_vzv6hr	responder	143	2	3_v6	responder_AL1B26_V6_pre	responder_V6_AL1B26_pre	3_v6	Resp_3_pAL1B26V6_S3
+pAL1B26N_S1	AL1B26	pre	N	normal skin	normalskin	AL1B26_pre_normalskin	responder	143	2	1_N	responder_AL1B26_N_pre	responder_N_AL1B26_pre	1_N	Resp_3_pAL1B26N_S1
+AL1B26N_S5	AL1B26	post	N	normal skin	normalskin	AL1B26_post_normalskin	responder	143	2	1_N	responder_AL1B26_N_post	responder_N_AL1B26_post	1_N	Resp_3_AL1B26N_S5
+AL1B26S6_S6	AL1B26	post	S6	6 hours after saline injection	saline6hr	AL1B26_post_saline6hr	responder	143	2	2_S6	responder_AL1B26_S6_post	responder_S6_AL1B26_post	2_S6	Resp_3_AL1B26S6_S6
+pAL1B26D2_S4	AL1B26	pre	D2	2 days after Varicella Zoster Virus antigen challenge	vzvday2	AL1B26_pre_vzvday2	responder	143	2	4_D2	responder_AL1B26_D2_pre	responder_D2_AL1B26_pre	4_D2	Resp_3_pAL1B26D2_S4
+AL1B26D2_S8	AL1B26	post	D2	2 days after Varicella Zoster Virus antigen challenge	vzvday2	AL1B26_post_vzvday2	responder	143	2	4_D2	responder_AL1B26_D2_post	responder_D2_AL1B26_post	4_D2	Resp_3_AL1B26D2_S8
+AL1B26V6_S7	AL1B26	post	V6	6 hours after Varicella Zoster Virus antigen challenge	vzv6hr	AL1B26_post_vzv6hr	responder	143	2	3_v6	responder_AL1B26_V6_post	responder_V6_AL1B26_post	3_v6	Resp_3_AL1B26V6_S7
+AL1B29N_S13	AL1B29	post	N	normal skin	normalskin	AL1B29_post_normalskin	non-responder	145	2	1_N	non-responder_AL1B29_N_post	non-responder_N_AL1B29_post	1_N	NResp_4_AL1B29N_S13
+AL1B29S6_S14	AL1B29	post	S6	6 hours after saline injection	saline6hr	AL1B29_post_saline6hr	non-responder	145	2	2_S6	non-responder_AL1B29_S6_post	non-responder_S6_AL1B29_post	2_S6	NResp_4_AL1B29S6_S14
+AL1B29V6_S15	AL1B29	post	V6	6 hours after Varicella Zoster Virus antigen challenge	vzv6hr	AL1B29_post_vzv6hr	non-responder	145	2	3_v6	non-responder_AL1B29_V6_post	non-responder_V6_AL1B29_post	3_v6	NResp_4_AL1B29V6_S15
+pAL1B29N_S9	AL1B29	pre	N	normal skin	normalskin	AL1B29_pre_normalskin	non-responder	145	2	1_N	non-responder_AL1B29_N_pre	non-responder_N_AL1B29_pre	1_N	NResp_4_pAL1B29N_S9
+pAL1B29S6_S10	AL1B29	pre	S6	6 hours after saline injection	saline6hr	AL1B29_pre_saline6hr	non-responder	145	2	2_S6	non-responder_AL1B29_S6_pre	non-responder_S6_AL1B29_pre	2_S6	NResp_4_pAL1B29S6_S10
+pAL1B29D2_S12	AL1B29	pre	D2	2 days after Varicella Zoster Virus antigen challenge	vzvday2	AL1B29_pre_vzvday2	non-responder	145	2	4_D2	non-responder_AL1B29_D2_pre	non-responder_D2_AL1B29_pre	4_D2	NResp_4_pAL1B29D2_S12
+AL1B29D2_S16	AL1B29	post	D2	2 days after Varicella Zoster Virus antigen challenge	vzvday2	AL1B29_post_vzvday2	non-responder	145	2	4_D2	non-responder_AL1B29_D2_post	non-responder_D2_AL1B29_post	4_D2	NResp_4_AL1B29D2_S16
+pAL1B29V6_S11	AL1B29	pre	V6	6 hours after Varicella Zoster Virus antigen challenge	vzv6hr	AL1B29_pre_vzv6hr	non-responder	145	2	3_v6	non-responder_AL1B29_V6_pre	non-responder_V6_AL1B29_pre	3_v6	NResp_4_pAL1B29V6_S11
+AL1B3V6_S3	AL1B3	post	V6	6 hours after Varicella Zoster Virus antigen challenge	vzv6hr	AL1B3_post_vzv6hr	non-responder	126_1	1	3_v6	non-responder_AL1B3_V6_post	non-responder_V6_AL1B3_post	3_v6	NA_AL1B3V6_S3
+pAL1B3V6_S1	AL1B3	pre	V6	6 hours after Varicella Zoster Virus antigen challenge	vzv6hr	AL1B3_pre_vzv6hr	non-responder	126_1	1	3_v6	non-responder_AL1B3_V6_pre	non-responder_V6_AL1B3_pre	3_v6	NA_pAL1B3V6_S1
+pAL1B3D2_S2	AL1B3	pre	D2	2 days after Varicella Zoster Virus antigen challenge	vzvday2	AL1B3_pre_vzvday2	non-responder	126_1	1	4_D2	non-responder_AL1B3_D2_pre	non-responder_D2_AL1B3_pre	4_D2	NA_pAL1B3D2_S2
+AL1B3D2_S4	AL1B3	post	D2	2 days after Varicella Zoster Virus antigen challenge	vzvday2	AL1B3_post_vzvday2	non-responder	126_1	1	4_D2	non-responder_AL1B3_D2_post	non-responder_D2_AL1B3_post	4_D2	NA_AL1B3D2_S4
+AL1B30S6_S14	AL1B30	post	S6	6 hours after saline injection	saline6hr	AL1B30_post_saline6hr	minimal_responder	143	2	2_S6	minimal_responder_AL1B30_S6_post	minimal_responder_S6_AL1B30_post	2_S6	MResp_4_AL1B30S6_S14
+pAL1B30N_S9	AL1B30	pre	N	normal skin	normalskin	AL1B30_pre_normalskin	minimal_responder	143	2	1_N	minimal_responder_AL1B30_N_pre	minimal_responder_N_AL1B30_pre	1_N	MResp_4_pAL1B30N_S9
+AL1B30V6_S15	AL1B30	post	V6	6 hours after Varicella Zoster Virus antigen challenge	vzv6hr	AL1B30_post_vzv6hr	minimal_responder	143	2	3_v6	minimal_responder_AL1B30_V6_post	minimal_responder_V6_AL1B30_post	3_v6	MResp_4_AL1B30V6_S15
+AL1B30D2_S16	AL1B30	post	D2	2 days after Varicella Zoster Virus antigen challenge	vzvday2	AL1B30_post_vzvday2	minimal_responder	143	2	4_D2	minimal_responder_AL1B30_D2_post	minimal_responder_D2_AL1B30_post	4_D2	MResp_4_AL1B30D2_S16
+pAL1B30D2_S12	AL1B30	pre	D2	2 days after Varicella Zoster Virus antigen challenge	vzvday2	AL1B30_pre_vzvday2	minimal_responder	143	2	4_D2	minimal_responder_AL1B30_D2_pre	minimal_responder_D2_AL1B30_pre	4_D2	MResp_4_pAL1B30D2_S12
+pAL1B30S6_S10	AL1B30	pre	S6	6 hours after saline injection	saline6hr	AL1B30_pre_saline6hr	minimal_responder	143	2	2_S6	minimal_responder_AL1B30_S6_pre	minimal_responder_S6_AL1B30_pre	2_S6	MResp_4_pAL1B30S6_S10
+pAL1B30V6_S11	AL1B30	pre	V6	6 hours after Varicella Zoster Virus antigen challenge	vzv6hr	AL1B30_pre_vzv6hr	minimal_responder	143	2	3_v6	minimal_responder_AL1B30_V6_pre	minimal_responder_V6_AL1B30_pre	3_v6	MResp_4_pAL1B30V6_S11
+AL1B30N_S13	AL1B30	post	N	normal skin	normalskin	AL1B30_post_normalskin	minimal_responder	143	2	1_N	minimal_responder_AL1B30_N_post	minimal_responder_N_AL1B30_post	1_N	MResp_4_AL1B30N_S13
+AL1B31S6_S6	AL1B31	post	S6	6 hours after saline injection	saline6hr	AL1B31_post_saline6hr	non-responder	145	2	2_S6	non-responder_AL1B31_S6_post	non-responder_S6_AL1B31_post	2_S6	NResp_5_AL1B31S6_S6
+pAL1B31S6_S2	AL1B31	pre	S6	6 hours after saline injection	saline6hr	AL1B31_pre_saline6hr	non-responder	145	2	2_S6	non-responder_AL1B31_S6_pre	non-responder_S6_AL1B31_pre	2_S6	NResp_5_pAL1B31S6_S2
+pAL1B31V6_S3	AL1B31	pre	V6	6 hours after Varicella Zoster Virus antigen challenge	vzv6hr	AL1B31_pre_vzv6hr	non-responder	145	2	3_v6	non-responder_AL1B31_V6_pre	non-responder_V6_AL1B31_pre	3_v6	NResp_5_pAL1B31V6_S3
+pAL1B31D2_S4	AL1B31	pre	D2	2 days after Varicella Zoster Virus antigen challenge	vzvday2	AL1B31_pre_vzvday2	non-responder	145	2	4_D2	non-responder_AL1B31_D2_pre	non-responder_D2_AL1B31_pre	4_D2	NResp_5_pAL1B31D2_S4
+pAL1B31N_S1	AL1B31	pre	N	normal skin	normalskin	AL1B31_pre_normalskin	non-responder	145	2	1_N	non-responder_AL1B31_N_pre	non-responder_N_AL1B31_pre	1_N	NResp_5_pAL1B31N_S1
+AL1B31V6_S7	AL1B31	post	V6	6 hours after Varicella Zoster Virus antigen challenge	vzv6hr	AL1B31_post_vzv6hr	non-responder	145	2	3_v6	non-responder_AL1B31_V6_post	non-responder_V6_AL1B31_post	3_v6	NResp_5_AL1B31V6_S7
+AL1B31D2_S8	AL1B31	post	D2	2 days after Varicella Zoster Virus antigen challenge	vzvday2	AL1B31_post_vzvday2	non-responder	145	2	4_D2	non-responder_AL1B31_D2_post	non-responder_D2_AL1B31_post	4_D2	NResp_5_AL1B31D2_S8
+AL1B31N_S5	AL1B31	post	N	normal skin	normalskin	AL1B31_post_normalskin	non-responder	145	2	1_N	non-responder_AL1B31_N_post	non-responder_N_AL1B31_post	1_N	NResp_5_AL1B31N_S5
+pAL1B5D2_S6	AL1B5	pre	D2	2 days after Varicella Zoster Virus antigen challenge	vzvday2	AL1B5_pre_vzvday2	responder	126_1	1	4_D2	responder_AL1B5_D2_pre	responder_D2_AL1B5_pre	4_D2	Resp_2_pAL1B5D2_S6
+AL1B5D2_S8	AL1B5	post	D2	2 days after Varicella Zoster Virus antigen challenge	vzvday2	AL1B5_post_vzvday2	responder	126_1	1	4_D2	responder_AL1B5_D2_post	responder_D2_AL1B5_post	4_D2	Resp_2_AL1B5D2_S8
+AL1B5V6_S7	AL1B5	post	V6	6 hours after Varicella Zoster Virus antigen challenge	vzv6hr	AL1B5_post_vzv6hr	responder	126_1	1	3_v6	responder_AL1B5_V6_post	responder_V6_AL1B5_post	3_v6	Resp_2_AL1B5V6_S7
+pAL1B5V6_S5	AL1B5	pre	V6	6 hours after Varicella Zoster Virus antigen challenge	vzv6hr	AL1B5_pre_vzv6hr	responder	126_1	1	3_v6	responder_AL1B5_V6_pre	responder_V6_AL1B5_pre	3_v6	Resp_2_pAL1B5V6_S5
+AL1B6N_S5	AL1B6	post	N	normal skin	normalskin	AL1B6_post_normalskin	non-responder	125_1	1	1_N	non-responder_AL1B6_N_post	non-responder_N_AL1B6_post	1_N	NResp_6_AL1B6N_S5
+AL1B6S6_S6	AL1B6	post	S6	6 hours after saline injection	saline6hr	AL1B6_post_saline6hr	non-responder	125_1	1	2_S6	non-responder_AL1B6_S6_post	non-responder_S6_AL1B6_post	2_S6	NResp_6_AL1B6S6_S6
+AL1B6V6_S7	AL1B6	post	V6	6 hours after Varicella Zoster Virus antigen challenge	vzv6hr	AL1B6_post_vzv6hr	non-responder	125_1	1	3_v6	non-responder_AL1B6_V6_post	non-responder_V6_AL1B6_post	3_v6	NResp_6_AL1B6V6_S7
+AL1B6D2_S8	AL1B6	post	D2	2 days after Varicella Zoster Virus antigen challenge	vzvday2	AL1B6_post_vzvday2	non-responder	125_1	1	4_D2	non-responder_AL1B6_D2_post	non-responder_D2_AL1B6_post	4_D2	NResp_6_AL1B6D2_S8
+pAL1B6D2_S4	AL1B6	pre	D2	2 days after Varicella Zoster Virus antigen challenge	vzvday2	AL1B6_pre_vzvday2	non-responder	125_1	1	4_D2	non-responder_AL1B6_D2_pre	non-responder_D2_AL1B6_pre	4_D2	NResp_6_pAL1B6D2_S4
+pAL1B6N_S1	AL1B6	pre	N	normal skin	normalskin	AL1B6_pre_normalskin	non-responder	125_1	1	1_N	non-responder_AL1B6_N_pre	non-responder_N_AL1B6_pre	1_N	NResp_6_pAL1B6N_S1
+pAL1B6S6_S2	AL1B6	pre	S6	6 hours after saline injection	saline6hr	AL1B6_pre_saline6hr	non-responder	125_1	1	2_S6	non-responder_AL1B6_S6_pre	non-responder_S6_AL1B6_pre	2_S6	NResp_6_pAL1B6S6_S2
+pAL1B6V6_S3	AL1B6	pre	V6	6 hours after Varicella Zoster Virus antigen challenge	vzv6hr	AL1B6_pre_vzv6hr	non-responder	125_1	1	3_v6	non-responder_AL1B6_V6_pre	non-responder_V6_AL1B6_pre	3_v6	NResp_6_pAL1B6V6_S3
+AL1B7N_S13	AL1B7	post	N	normal skin	normalskin	AL1B7_post_normalskin	non-responder	126_1	1	1_N	non-responder_AL1B7_N_post	non-responder_N_AL1B7_post	1_N	NResp_7_AL1B7N_S13
+AL1B7S6_S14	AL1B7	post	S6	6 hours after saline injection	saline6hr	AL1B7_post_saline6hr	non-responder	126_1	1	2_S6	non-responder_AL1B7_S6_post	non-responder_S6_AL1B7_post	2_S6	NResp_7_AL1B7S6_S14
+AL1B7V6_S15	AL1B7	post	V6	6 hours after Varicella Zoster Virus antigen challenge	vzv6hr	AL1B7_post_vzv6hr	non-responder	126_1	1	3_v6	non-responder_AL1B7_V6_post	non-responder_V6_AL1B7_post	3_v6	NResp_7_AL1B7V6_S15
+AL1B7D2_S16	AL1B7	post	D2	2 days after Varicella Zoster Virus antigen challenge	vzvday2	AL1B7_post_vzvday2	non-responder	126_1	1	4_D2	non-responder_AL1B7_D2_post	non-responder_D2_AL1B7_post	4_D2	NResp_7_AL1B7D2_S16
+pAL1B7D2_S12	AL1B7	pre	D2	2 days after Varicella Zoster Virus antigen challenge	vzvday2	AL1B7_pre_vzvday2	non-responder	126_1	1	4_D2	non-responder_AL1B7_D2_pre	non-responder_D2_AL1B7_pre	4_D2	NResp_7_pAL1B7D2_S12
+pAL1B7N_S9	AL1B7	pre	N	normal skin	normalskin	AL1B7_pre_normalskin	non-responder	126_1	1	1_N	non-responder_AL1B7_N_pre	non-responder_N_AL1B7_pre	1_N	NResp_7_pAL1B7N_S9
+pAL1B7S6_S10	AL1B7	pre	S6	6 hours after saline injection	saline6hr	AL1B7_pre_saline6hr	non-responder	126_1	1	2_S6	non-responder_AL1B7_S6_pre	non-responder_S6_AL1B7_pre	2_S6	NResp_7_pAL1B7S6_S10
+pAL1B7V6_S11	AL1B7	pre	V6	6 hours after Varicella Zoster Virus antigen challenge	vzv6hr	AL1B7_pre_vzv6hr	non-responder	126_1	1	3_v6	non-responder_AL1B7_V6_pre	non-responder_V6_AL1B7_pre	3_v6	NResp_7_pAL1B7V6_S11

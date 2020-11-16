@@ -1,0 +1,31 @@
+Gene	Gene ID	source 	Notes	removed
+IDO1				
+GNLY				
+FCGR1B				
+KLRC2				
+GZMB				
+SLAMF7				
+FCGR1A				
+PLAC8				
+FPR1				
+BATF2				
+AIM2				
+IL18RAP				
+KLHDC7B				
+NKG7				
+IL7R				
+GBP5				
+FCMR			old symbol = FAIM3	
+CXCL9				
+SLAMF6				
+SLAMF1				
+CTLA4				
+OASL				
+CLEC4E				
+XCL1				
+LCK				
+SH2D1A				
+EPSTI1				
+CD247				
+IRF1				
+CCL5				

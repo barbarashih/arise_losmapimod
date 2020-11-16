@@ -1,0 +1,570 @@
+Gene.name,ImSig
+AFF3,B cells
+BANK1,B cells
+BLK,B cells
+BTLA,B cells
+CCR6,B cells
+CD180,B cells
+CD19,B cells
+CD22,B cells
+CD37,B cells
+CD72,B cells
+CD79A,B cells
+CD79B,B cells
+CR2,B cells
+EBF1,B cells
+FAM129C,B cells
+FCRL1,B cells
+FCRL2,B cells
+FCRL3,B cells
+FCRL5,B cells
+FCRLA,B cells
+HLA-DOB,B cells
+IGHV5-78,B cells
+KIAA0125,B cells
+LINC00926,B cells
+LOC100507616,B cells
+LY9,B cells
+MS4A1,B cells
+P2RX5,B cells
+PAX5,B cells
+PNOC,B cells
+POU2F2,B cells
+S1PR4,B cells
+SNX22,B cells
+STAP1,B cells
+TCL1A,B cells
+TLR10,B cells
+VPREB3,B cells
+ANLN,Cell cycle
+ASPM,Cell cycle
+AURKA,Cell cycle
+AURKB,Cell cycle
+BIRC5,Cell cycle
+BUB1,Cell cycle
+BUB1B,Cell cycle
+CASC5,Cell cycle
+CCNA2,Cell cycle
+CCNB1,Cell cycle
+CCNB2,Cell cycle
+CCNE2,Cell cycle
+CDC20,Cell cycle
+CDC6,Cell cycle
+CDCA2,Cell cycle
+CDCA3,Cell cycle
+CDCA5,Cell cycle
+CDCA7,Cell cycle
+CDCA8,Cell cycle
+CDK1,Cell cycle
+CDKN3,Cell cycle
+CDT1,Cell cycle
+CENPA,Cell cycle
+CENPE,Cell cycle
+CENPF,Cell cycle
+CENPL,Cell cycle
+CEP55,Cell cycle
+CKS1B,Cell cycle
+DEPDC1,Cell cycle
+DEPDC1B,Cell cycle
+DLGAP5,Cell cycle
+DONSON,Cell cycle
+DTL,Cell cycle
+E2F8,Cell cycle
+ECT2,Cell cycle
+EZH2,Cell cycle
+FAM72C,Cell cycle
+FANCI,Cell cycle
+FBXO5,Cell cycle
+FOXM1,Cell cycle
+GINS1,Cell cycle
+GINS2,Cell cycle
+GMNN,Cell cycle
+HJURP,Cell cycle
+HMGB3,Cell cycle
+HMMR,Cell cycle
+KIAA0101,Cell cycle
+KIF11,Cell cycle
+KIF14,Cell cycle
+KIF15,Cell cycle
+KIF18B,Cell cycle
+KIF20A,Cell cycle
+KIF2C,Cell cycle
+KIF4A,Cell cycle
+MAD2L1,Cell cycle
+MCM10,Cell cycle
+MCM2,Cell cycle
+MCM4,Cell cycle
+MCM6,Cell cycle
+MELK,Cell cycle
+MKI67,Cell cycle
+MND1,Cell cycle
+MTFR2,Cell cycle
+NCAPG,Cell cycle
+NCAPG2,Cell cycle
+NDC80,Cell cycle
+NEK2,Cell cycle
+NUF2,Cell cycle
+NUSAP1,Cell cycle
+OIP5,Cell cycle
+PARPBP,Cell cycle
+PBK,Cell cycle
+PCNA,Cell cycle
+PLK4,Cell cycle
+POLE2,Cell cycle
+POLQ,Cell cycle
+PTTG1,Cell cycle
+RACGAP1,Cell cycle
+RAD51,Cell cycle
+RAD51AP1,Cell cycle
+RRM1,Cell cycle
+RRM2,Cell cycle
+SHCBP1,Cell cycle
+SKA1,Cell cycle
+SMC2,Cell cycle
+SPC25,Cell cycle
+STIL,Cell cycle
+STMN1,Cell cycle
+TCF19,Cell cycle
+TK1,Cell cycle
+TOP2A,Cell cycle
+TPX2,Cell cycle
+TRIP13,Cell cycle
+TTK,Cell cycle
+TYMS,Cell cycle
+UBE2C,Cell cycle
+UHRF1,Cell cycle
+ZWILCH,Cell cycle
+ZWINT,Cell cycle
+APOL1,Interferon signalling
+APOL6,Interferon signalling
+BATF2,Interferon signalling
+BST2,Interferon signalling
+C19orf66,Interferon signalling
+C5orf56,Interferon signalling
+CMPK2,Interferon signalling
+DDX58,Interferon signalling
+DDX60,Interferon signalling
+DHX58,Interferon signalling
+DTX3L,Interferon signalling
+EPSTI1,Interferon signalling
+FBXO6,Interferon signalling
+GBP1,Interferon signalling
+GBP4,Interferon signalling
+HELZ2,Interferon signalling
+HERC5,Interferon signalling
+HERC6,Interferon signalling
+HSH2D,Interferon signalling
+IFI16,Interferon signalling
+IFI35,Interferon signalling
+IFI44,Interferon signalling
+IFI44L,Interferon signalling
+IFI6,Interferon signalling
+IFIH1,Interferon signalling
+IFIT1,Interferon signalling
+IFIT2,Interferon signalling
+IFIT3,Interferon signalling
+IFIT5,Interferon signalling
+IFITM1,Interferon signalling
+IRF7,Interferon signalling
+IRF9,Interferon signalling
+ISG15,Interferon signalling
+LAMP3,Interferon signalling
+LAP3,Interferon signalling
+MX1,Interferon signalling
+MX2,Interferon signalling
+OAS2,Interferon signalling
+OAS3,Interferon signalling
+OASL,Interferon signalling
+PARP10,Interferon signalling
+PARP12,Interferon signalling
+PARP14,Interferon signalling
+PARP9,Interferon signalling
+PHF11,Interferon signalling
+PML,Interferon signalling
+PSMB9,Interferon signalling
+RNF213,Interferon signalling
+RSAD2,Interferon signalling
+RTP4,Interferon signalling
+SAMD9,Interferon signalling
+SAMD9L,Interferon signalling
+SHISA5,Interferon signalling
+SIGLEC1,Interferon signalling
+SP110,Interferon signalling
+STAT1,Interferon signalling
+STAT2,Interferon signalling
+TAP1,Interferon signalling
+TRAFD1,Interferon signalling
+TRIM21,Interferon signalling
+TRIM22,Interferon signalling
+TRIM5,Interferon signalling
+UBE2L6,Interferon signalling
+USP18,Interferon signalling
+XAF1,Interferon signalling
+ZNFX1,Interferon signalling
+ADAMDEC1,Macrophages
+ADORA3,Macrophages
+AOAH,Macrophages
+ARRB2,Macrophages
+ATP8B4,Macrophages
+BCL2A1,Macrophages
+C1orf54,Macrophages
+C1QA,Macrophages
+C1QB,Macrophages
+C2,Macrophages
+C3AR1,Macrophages
+C5AR1,Macrophages
+CCR1,Macrophages
+CCRL2,Macrophages
+CD163,Macrophages
+CD300A,Macrophages
+CD4,Macrophages
+CD68,Macrophages
+CD74,Macrophages
+CD86,Macrophages
+CECR1,Macrophages
+CLEC7A,Macrophages
+CMKLR1,Macrophages
+CSF1R,Macrophages
+CTSB,Macrophages
+CTSS,Macrophages
+CYBB,Macrophages
+CYTH4,Macrophages
+DPYD,Macrophages
+EMR2,Macrophages
+FCER1G,Macrophages
+FCGR1A,Macrophages
+FCGR1B,Macrophages
+FCGR2A,Macrophages
+FCGR3B,Macrophages
+FPR3,Macrophages
+GPNMB,Macrophages
+HK3,Macrophages
+HLA-DRB6,Macrophages
+IFI30,Macrophages
+IGSF6,Macrophages
+ITGAM,Macrophages
+ITGAX,Macrophages
+ITGB2,Macrophages
+LAIR1,Macrophages
+LAPTM5,Macrophages
+LILRB4,Macrophages
+LIPA,Macrophages
+LY96,Macrophages
+MAN2B1,Macrophages
+MFSD1,Macrophages
+MNDA,Macrophages
+MS4A4A,Macrophages
+MS4A7,Macrophages
+MSR1,Macrophages
+MYO1F,Macrophages
+NCKAP1L,Macrophages
+NPL,Macrophages
+NR1H3,Macrophages
+PLA2G7,Macrophages
+PLEKHO2,Macrophages
+SCPEP1,Macrophages
+SLAMF8,Macrophages
+SLC15A3,Macrophages
+SLC31A2,Macrophages
+SLCO2B1,Macrophages
+SNX10,Macrophages
+SPI1,Macrophages
+TBXAS1,Macrophages
+TLR8,Macrophages
+TMEM140,Macrophages
+TNFAIP2,Macrophages
+TNFRSF1B,Macrophages
+TNFSF13B,Macrophages
+TRPV2,Macrophages
+TYMP,Macrophages
+TYROBP,Macrophages
+VSIG4,Macrophages
+AGTRAP,Monocytes
+AIF1,Monocytes
+C10orf54,Monocytes
+CD14,Monocytes
+CD300LF,Monocytes
+CD33,Monocytes
+CD93,Monocytes
+CTSD,Monocytes
+EMILIN2,Monocytes
+FCN1,Monocytes
+FES,Monocytes
+FGR,Monocytes
+GNS,Monocytes
+GRN,Monocytes
+HCK,Monocytes
+HMOX1,Monocytes
+KIAA0930,Monocytes
+LILRA6,Monocytes
+LILRB2,Monocytes
+LILRB3,Monocytes
+LRRC25,Monocytes
+LST1,Monocytes
+NFAM1,Monocytes
+NOTCH2,Monocytes
+PILRA,Monocytes
+PLXDC2,Monocytes
+PRAM1,Monocytes
+PSAP,Monocytes
+PYCARD,Monocytes
+RHOG,Monocytes
+SERPINA1,Monocytes
+SLC7A7,Monocytes
+TGFBI,Monocytes
+THEMIS2,Monocytes
+TIMP2,Monocytes
+TPP1,Monocytes
+VCAN,Monocytes
+ACSL1,Neutrophils
+ALPK1,Neutrophils
+AQP9,Neutrophils
+BASP1,Neutrophils
+BCL6,Neutrophils
+CD97,Neutrophils
+CEP19,Neutrophils
+CFLAR,Neutrophils
+CSF3R,Neutrophils
+CXCR2,Neutrophils
+DENND5A,Neutrophils
+DYSF,Neutrophils
+FAM65B,Neutrophils
+FCGR2C,Neutrophils
+FPR1,Neutrophils
+GLT1D1,Neutrophils
+GPR97,Neutrophils
+IFITM2,Neutrophils
+IL17RA,Neutrophils
+KCNJ2,Neutrophils
+KIAA0247,Neutrophils
+LILRA2,Neutrophils
+LIMK2,Neutrophils
+LINC01002,Neutrophils
+MGAM,Neutrophils
+MOB3A,Neutrophils
+NAMPT,Neutrophils
+NCF4,Neutrophils
+PADI2,Neutrophils
+PHC2,Neutrophils
+PHF21A,Neutrophils
+PLXNC1,Neutrophils
+PREX1,Neutrophils
+RALB,Neutrophils
+RNF149,Neutrophils
+S100A8,Neutrophils
+S100A9,Neutrophils
+SLC25A37,Neutrophils
+SNORD89,Neutrophils
+SSH2,Neutrophils
+STAT3,Neutrophils
+STAT5B,Neutrophils
+THBD,Neutrophils
+TLR2,Neutrophils
+TLR4,Neutrophils
+TMEM154,Neutrophils
+TNFRSF1A,Neutrophils
+KIR2DL1,NK cells
+KIR2DL2,NK cells
+KIR2DL3,NK cells
+KIR2DL4,NK cells
+KIR2DL5A,NK cells
+KIR2DS1,NK cells
+KIR2DS2,NK cells
+KIR2DS3,NK cells
+KIR2DS5,NK cells
+KIR3DL1,NK cells
+KIR3DL2,NK cells
+KIR3DL3,NK cells
+KLRC2,NK cells
+KLRC3,NK cells
+KLRC4,NK cells
+KLRD1,NK cells
+PRF1,NK cells
+SAMD3,NK cells
+SH2D1B,NK cells
+TBX21,NK cells
+GUSBP11,Plasma cells
+IGH,Plasma cells
+IGHG3,Plasma cells
+IGJ,Plasma cells
+IGKC,Plasma cells
+IGKV1D-13,Plasma cells
+IGLC1,Plasma cells
+IGLJ3,Plasma cells
+IGLL3P,Plasma cells
+IGLV@,Plasma cells
+IGLV1-44,Plasma cells
+MZB1,Plasma cells
+TNFRSF17,Plasma cells
+TXNDC5,Plasma cells
+AMICA1,T cells
+APBB1IP,T cells
+ARHGAP15,T cells
+ARHGAP25,T cells
+ARHGAP9,T cells
+BIN2,T cells
+BTK,T cells
+C1orf162,T cells
+CCL19,T cells
+CCR7,T cells
+CD2,T cells
+CD27,T cells
+CD28,T cells
+CD3D,T cells
+CD3E,T cells
+CD3G,T cells
+CD48,T cells
+CD52,T cells
+CD6,T cells
+CD8A,T cells
+CD96,T cells
+CORO1A,T cells
+CRTAM,T cells
+CXCL9,T cells
+CXCR6,T cells
+CYTIP,T cells
+DOCK10,T cells
+DOCK2,T cells
+DOCK8,T cells
+DPEP2,T cells
+EVI2A,T cells
+EVI2B,T cells
+FAM26F,T cells
+FLI1,T cells
+FYB,T cells
+FYN,T cells
+GAB3,T cells
+GIMAP2,T cells
+GIMAP4,T cells
+GIMAP5,T cells
+GIMAP6,T cells
+GIMAP7,T cells
+GMFG,T cells
+GPR171,T cells
+GPR18,T cells
+GZMK,T cells
+HCST,T cells
+HMHA1,T cells
+HVCN1,T cells
+ICOS,T cells
+IL10RA,T cells
+IL16,T cells
+IL23A,T cells
+IL7R,T cells
+ITGAL,T cells
+ITK,T cells
+KLHL6,T cells
+KLRB1,T cells
+LCP1,T cells
+LY86,T cells
+NCF1B,T cells
+NLRC3,T cells
+PARVG,T cells
+PRKCH,T cells
+PSTPIP1,T cells
+PTPRCAP,T cells
+PVRIG,T cells
+RASSF5,T cells
+RCSD1,T cells
+RGS18,T cells
+RHOH,T cells
+SASH3,T cells
+SH2D1A,T cells
+SIRPG,T cells
+SLA,T cells
+SP140,T cells
+TARP,T cells
+TBC1D10C,T cells
+TNFRSF9,T cells
+TRAC,T cells
+TRAF3IP3,T cells
+TRAT1,T cells
+TRGC2,T cells
+TRGV9,T cells
+UBASH3A,T cells
+EEF1A1,Translational activity
+EEF1B2,Translational activity
+EEF1D,Translational activity
+EEF1G,Translational activity
+EIF3D,Translational activity
+EIF3E,Translational activity
+EIF3F,Translational activity
+EIF3G,Translational activity
+EIF3H,Translational activity
+EIF3K,Translational activity
+FAU,Translational activity
+GNB2L1,Translational activity
+NACA,Translational activity
+PFDN5,Translational activity
+RPL10,Translational activity
+RPL10L,Translational activity
+RPL11,Translational activity
+RPL12,Translational activity
+RPL13,Translational activity
+RPL13A,Translational activity
+RPL14,Translational activity
+RPL15,Translational activity
+RPL17,Translational activity
+RPL18,Translational activity
+RPL18A,Translational activity
+RPL19,Translational activity
+RPL21,Translational activity
+RPL22,Translational activity
+RPL23,Translational activity
+RPL23A,Translational activity
+RPL24,Translational activity
+RPL27,Translational activity
+RPL27A,Translational activity
+RPL28,Translational activity
+RPL29,Translational activity
+RPL3,Translational activity
+RPL30,Translational activity
+RPL31,Translational activity
+RPL32,Translational activity
+RPL34,Translational activity
+RPL35,Translational activity
+RPL35A,Translational activity
+RPL36A,Translational activity
+RPL37,Translational activity
+RPL37A,Translational activity
+RPL38,Translational activity
+RPL39,Translational activity
+RPL4,Translational activity
+RPL5,Translational activity
+RPL6,Translational activity
+RPL7,Translational activity
+RPL7A,Translational activity
+RPL8,Translational activity
+RPL9,Translational activity
+RPLP0,Translational activity
+RPLP2,Translational activity
+RPS10,Translational activity
+RPS11,Translational activity
+RPS13,Translational activity
+RPS14,Translational activity
+RPS15,Translational activity
+RPS15A,Translational activity
+RPS16,Translational activity
+RPS17,Translational activity
+RPS18,Translational activity
+RPS19,Translational activity
+RPS2,Translational activity
+RPS20,Translational activity
+RPS21,Translational activity
+RPS23,Translational activity
+RPS25,Translational activity
+RPS27A,Translational activity
+RPS28,Translational activity
+RPS29,Translational activity
+RPS3,Translational activity
+RPS3A,Translational activity
+RPS5,Translational activity
+RPS6,Translational activity
+RPS7,Translational activity
+RPS8,Translational activity
+RPS9,Translational activity
+RPSA,Translational activity
+SNHG6,Translational activity
+SNHG8,Translational activity
+SNRPD2,Translational activity
+UXT,Translational activity
